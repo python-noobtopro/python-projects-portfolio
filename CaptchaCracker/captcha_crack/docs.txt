@@ -1,0 +1,13 @@
+https://medium.com/geekculture/how-to-solve-captcha-with-python-80959653dba2
+anti-captcha
+
+https://thepythonguru.com/decoding-captchas-using-python/
+image recog for text captcha recognition
+
+
+https://pypi.org/project/captcha-solver/
+payed
+
+https://gist.github.com/christianroman/5679049
+
+https://cloudsek.com/how-to-bypass-captchas-easily-using-python-and-other-methods/
